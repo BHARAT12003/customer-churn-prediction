@@ -3,7 +3,7 @@
 // =========================================================
 
 // Flask API URL
-const API_URL = "http://127.0.0.1:5000/predict";
+const API_URL = "https://customer-churn-api-etzn.onrender.com/predict";
 
 // Get HTML elements
 const predictionForm = document.getElementById("predictionForm");
